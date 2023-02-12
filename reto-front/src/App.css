@@ -1,14 +1,13 @@
-*{
-    margin :0;
-    padding :0;
-    box-sizing : border-box;
-
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 html,
 body {
-    color :white;
-    background-color: rgba(227, 227, 235, 0.822);
-    font-family : Lato , sans-serif;
-    margin-top: 40px;
+  color: white;
+  background-color: rgba(122, 122, 117, 0.753);
+  font-family: Lato, sans-serif;
+  margin-top: 40px;
 }
