@@ -4,8 +4,13 @@ import './Header.css';
 
 const Header = () => (
     <header className='header'>
-    <h3>[ Making your life easier ]</h3> 
-    <h1>Discovering the World</h1>
+    <h3>
+      [<span> Making your life easier </span>]
+    </h3>
+    <div className='headerP'>
+      <h1>Discovering the World</h1>
+    </div>
+    
     </header>
   );
 
